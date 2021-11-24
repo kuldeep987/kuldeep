@@ -15,7 +15,7 @@ namespace API.Controllers
            _context = context;
         }
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<AppUser?>>> GetUsers()
+        public async Task<ActionResult<IEnumerable<AppUser?>>> GetUser()
         {
             return await _context.Users !.ToListAsync();
         }

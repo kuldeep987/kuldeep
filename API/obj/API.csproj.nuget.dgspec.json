@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Taction\\Demo\\DatingAPP\\API\\API.csproj": {}
+    "C:\\Users\\Taction\\Demo\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Taction\\Demo\\DatingAPP\\API\\API.csproj": {
+    "C:\\Users\\Taction\\Demo\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Taction\\Demo\\DatingAPP\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Taction\\Demo\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Taction\\Demo\\DatingAPP\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Taction\\Demo\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Taction\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Taction\\Demo\\DatingAPP\\API\\obj\\",
+        "outputPath": "C:\\Users\\Taction\\Demo\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Taction\\AppData\\Roaming\\NuGet\\NuGet.Config",
