@@ -1,6 +1,5 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { on } from 'events';
 
 @Component({
   selector: 'app-root',
@@ -12,7 +11,7 @@ export class AppComponent implements OnInit {
   users:any;
 
   
-  constructor(private http:HttpClient) {}
+  constructor(private http: HttpClient) {}
   
   
   ngOnInit() {
